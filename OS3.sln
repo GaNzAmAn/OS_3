@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OS3", "OS3\OS3.csproj", "{FFEE29E8-583C-41CA-A6C1-26380048700D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFEE29E8-583C-41CA-A6C1-26380048700D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFEE29E8-583C-41CA-A6C1-26380048700D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFEE29E8-583C-41CA-A6C1-26380048700D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFEE29E8-583C-41CA-A6C1-26380048700D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C8D5948-00A3-40CE-A27F-A5B46417C672}
+	EndGlobalSection
+EndGlobal
